@@ -49,4 +49,4 @@ I used both kmeans clustering and hierarchical clustering for the project
 ● Hierarchical Clustering (Spending Score & Age): This clustering reveals age-based spending habits. It might uncover generational trends, such as younger customers being more active spenders or older customers having more conservative spending patterns.
 
 
-## KINDLY HAVE A LOOK AT MY DETAILED NOTEBOOK FOR INSIGHTS AND RECOMMENDATIONS. THANK YOU 
+## KINDLY HAVE A LOOK AT MY DETAILED NOTEBOOK FOR MY INSIGHTS AND RECOMMENDATIONS. THANK YOU 
